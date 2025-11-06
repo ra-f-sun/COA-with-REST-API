@@ -1,0 +1,80 @@
+/* COA Plugin - Admin Styles */
+
+/* Main Admin Page Container */
+.coa-management-page h1 {
+    font-size: 28px;
+}
+
+.coa-management-page h2 {
+    margin-top: 0;
+    font-size: 20px;
+}
+
+/* System Information Table */
+.coa-system-info-table td {
+    padding: 12px;
+}
+
+.coa-system-info-table tr:nth-child(even) {
+    background: #f9f9f9;
+}
+
+/* Admin Box Container */
+.coa-admin-box {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+.coa-admin-box h2 {
+    margin-top: 0;
+    font-size: 20px;
+    color: #23282d;
+}
+
+/* Success/Notice Boxes */
+.coa-notice-success {
+    background: #d4edda;
+    border: 2px solid #28a745;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.coa-notice-success h2 {
+    color: #155724;
+    margin-top: 0;
+}
+
+.coa-notice-info {
+    background: #d1ecf1;
+    border: 1px solid #bee5eb;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+/* Form Elements */
+.coa-form-wrapper {
+    margin-top: 20px;
+}
+
+.coa-form-input {
+    width: 300px;
+}
+
+/* API Test Buttons */
+.coa-api-button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+/* Category Management Table */
+.coa-categories-table td {
+    padding: 12px;
+}
+
+.coa-categories-table tr:nth-child(even) {
+    background: #f9f9f9;
+}
