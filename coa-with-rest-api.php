@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: COA Plugin with REST API
+ * Plugin Name: COA Plugin with REST API - woo
  * Description: Custom category and fields for WooCommerce products with REST API
  * Version: 1.0.0
  * Author: Rafsun Jani
